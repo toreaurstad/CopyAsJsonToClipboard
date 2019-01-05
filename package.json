@@ -4,7 +4,7 @@
 	"publisher": "toreaurstad",
 	"description": "An extension that will copy a marked text to clipboard, running JSON.Stringify if possible",
 	"repository": "https://github.com/toreaurstad/CopyAsJsonToClipboard",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
